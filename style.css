@@ -36,7 +36,6 @@ img {
 
 .hero {
     height: 100vh;
-    background-color: aqua;
     background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)), url('toronto-gadb94c37d_1920.jpg');
     background-position: center;
     background-size: cover;
